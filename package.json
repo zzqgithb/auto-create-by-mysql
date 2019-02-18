@@ -1,0 +1,19 @@
+{
+  "name": "auto-create-by-mysql",
+  "version": "1.0.0",
+  "description": "A tool for automatically generating js model based on mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "auto-create-by-mysql"
+  ],
+  "author": "zzq",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "mysql": "^2.15.0",
+    "velocityjs": "^1.1.1"
+  }
+}
